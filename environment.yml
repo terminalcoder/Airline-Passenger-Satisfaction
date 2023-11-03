@@ -1,0 +1,4 @@
+name: cls-env
+channels:
+  - defaults
+prefix: C:\Users\melec\anaconda3\envs\cls-env
