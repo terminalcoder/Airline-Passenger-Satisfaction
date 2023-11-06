@@ -56,7 +56,7 @@ Each model's performance is assesed by its recall score on test predictions, for
 A random forest classifier, with a recall score of .97, is ultimately identified as the best performing model for the data. Its performance is shown: ![image](https://github.com/terminalcoder/Airline-Passenger-Satisfaction/blob/master/images/rfc_conf_matrix.png))
 ***
 ## Features
-The model reveales which features are most influential to the its predictions :
+The model reveales which features are most influential to its predictions :
 ![image](https://github.com/terminalcoder/Airline-Passenger-Satisfaction/blob/master/images/frfc_feat_imp_bar.png)
 ***
 ## Conclusions/ Recommendations
