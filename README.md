@@ -52,7 +52,7 @@ Several different modeling techniques are used to identify a classification mode
 - CatBoost
 - Voting Classifier
   
-Each model's performance is assesed by its recall score on test predictions, for class 0 (neutral or dissatisfied). This is the best metric to use to assess the model' ability to identify every customer who will not be satisfied.
+Each model's performance is assesed by its recall score on test predictions, for class 0 (neutral or dissatisfied). This is the best metric to use to assess the models' ability to identify every customer who will not be satisfied.
 A random forest classifier, with a recall score of .97, is ultimately identified as the best performing model for the data. Its performance is shown: ![image](https://github.com/terminalcoder/Airline-Passenger-Satisfaction/blob/master/images/rfc_conf_matrix.png))
 ***
 ## Features
