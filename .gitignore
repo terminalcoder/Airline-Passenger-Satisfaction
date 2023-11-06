@@ -161,3 +161,6 @@ cython_debug/
 
 #catboost
 catboost_info
+
+# remove data for security
+data
