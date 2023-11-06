@@ -26,6 +26,13 @@ Additionally, the knowledge of which customers will likely be dissatisfied, will
 
 ***
 ## Data
+### Data Access
+To access the data used for this report follow the following steps:
+1. Navigate to the dataset on Kaggle [Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?rvi=1).
+2. Select  `Download` from the top of the page. This will save a folder, archive.zip, to wherever downloads are saved by default on your machine. (You need a Kaggle account to download this file.)
+3. Create a folder called `data` in this directory, & move the archive file there. (The code is written to handle the zipped file without further manual unzipping or moving of files).
+
+
 The data used in this report is from the Kaggle [Airline Passenger Satisfaction](https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?rvi=1) dataset. It contains records from an airline passenger survey with ~130k participants. Most of the features of this dataset describe subjective customer ratings of various elements of their experience (e.g. departure/arrival time convenient, cleanliness, inflight wifi), while a few features included describe certain objective elements of flight experiences (e.g. customer age, flight distance, passenger gender).
 The target feature is `'satisfaction'`, while all of the other features present in the dataset are the predictor features.
 
