@@ -31,7 +31,7 @@ The target feature is `'satisfaction'`, while all of the other features present 
 
 ### Feature Distribution
 #### Predictor Variables
-The predictor features are present in the data with the following distributions *(note that several of the features have a binomial distribution)*:
+The predictor features are present in the data with the following distributions:
 ![image](https://github.com/terminalcoder/Airline-Passenger-Satisfaction/blob/master/images/pred_feat_hist.png)
 
 #### Target Variable
