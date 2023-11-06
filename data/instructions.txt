@@ -1,0 +1,7 @@
+Data Access
+To access the data used for this report & replicate this project on a local machine, follow these steps:
+
+1. Clone this repository to your local machine.
+2. Navigate to the dataset on Kaggle Airline Passenger Satisfaction. Copy & paste this in your browser: https://www.kaggle.com/datasets/teejmahal20/airline-passenger-satisfaction?rvi=1.
+3. Select Download from the top of the page. This will save a folder, archive.zip, to wherever downloads are saved by default on your machine. (You need a Kaggle account to  download this file.)
+4. Locate the archive.zip file & move it to the `data' file in this directory. (The code is written to handle the zipped file without further manual unzipping or naming of      files).
