@@ -104,7 +104,7 @@ For any additional questions, please contact Elimelech Berlin, melech.berlin@gma
 ├── README.md                                 <- the top-level README for reviewers of this project
 ├── notebook.ipynb                            <- narrative documentation of analysis in Jupyter notebook
 ├── presentation.pdf                          <- PDF version of project presentation
-├── data                                      <- empty folder in which to store data (see instructions above)
+├── data                                      <- folder in which to store data (see instructions above), also has instructions to do so
 ├── .gitignore                                <- files to ignore
 ├── images                                    <- sourced externally & from code
 └── environment.yml                           <- file with environment requirements for jupyter notebook
