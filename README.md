@@ -18,10 +18,11 @@ Ultimately, a random forest classifier is identified as the most performant mode
 
 By further examining these features, deeper insight into customer satisfaction is attained.
 
+
 ***
 ## Business Context
-A satisfied customer is a repeat customer.  
-A model capable of accurately predicting a customer's dissatisfaction can prove invaluable in equipping an airline with the necesarry insight to modify the elements of service contributing to that dissatisfaction.  
+According to a recent article by [J.D. Power](https://www.jdpower.com/business/press-releases/2023-north-america-airline-satisfaction-study), despite recent record profits by airline companies, customer satisfaction is down 'significantly' over the past two years. The article goes on to cite an analyst's warning, of possible brand damage if more isin't done to reverse this trend.  
+A model capable of accurately predicting a customer's dissatisfaction can prove invaluable in equipping an airline with the necesarry insight to modify the elements of service contributing to that growing dissatisfaction.  
 Additionally, the knowledge of which customers will likely be dissatisfied, will provide the airline with a strong basis to preemptively target whoever is predicted to be dissatisfied, thus minimizing overall customer dissatisfaction.
 
 ***
