@@ -1,4 +1,4 @@
-name: test2-env
+name: base
 channels:
   - defaults
 dependencies:
