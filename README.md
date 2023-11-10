@@ -1,4 +1,4 @@
-![image](https://github.com/terminalcoder/Airline-Passenger-Satisfaction/blob/master/images/airplane_seats.png.png)
+![image](https://github.com/terminalcoder/Airline-Passenger-Satisfaction/blob/master/images/airplane_seats.png)
 # Airline-Passenger-Satisfaction
 Elimelech Berlin  
 October 2023
