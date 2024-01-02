@@ -4,7 +4,7 @@ Elimelech Berlin
 October 2023
 ***
 ## Overview
-This report analyzes records of airline customers to construct a classification model to identify customers who are likely to be not satisfied by their experience.
+This report analyzes the survey results of airline customers to construct a classification model to identify customers who are likely to be not satisfied by their experience.
 Several different modeling techniques are implemented:
 * Logistic Regression
 * Random Forest Classifier
